@@ -14,5 +14,6 @@ Los proximos no estaran en google colab al menos que me lo pidan asi que dejare 
 8. Caesar Cipher: [mira el codigo](https://github.com/Lifimastar/100DaysPython/tree/main/proyectos/8_caesar_cipher)
 9. Blind Auction: [mira el codigo](https://github.com/Lifimastar/100DaysPython/tree/main/proyectos/9_blind_auction)
 10. Calculator Final: [mira el codigo](https://github.com/Lifimastar/100DaysPython/tree/main/proyectos/10_calculator_final)
+11. Blackjack Capstone: [mira el codigo](https://github.com/Lifimastar/100DaysPython/tree/main/proyectos/11_blackjack)
 
 Presiona '|>' para ejecutar el codigo.
