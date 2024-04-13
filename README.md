@@ -15,5 +15,6 @@ Los proximos no estaran en google colab al menos que me lo pidan asi que dejare 
 9. Blind Auction: [mira el codigo](https://github.com/Lifimastar/100DaysPython/tree/main/proyectos/9_blind_auction)
 10. Calculator Final: [mira el codigo](https://github.com/Lifimastar/100DaysPython/tree/main/proyectos/10_calculator_final)
 11. Blackjack Capstone: [mira el codigo](https://github.com/Lifimastar/100DaysPython/tree/main/proyectos/11_blackjack)
+12. Number Guessing Game: [mira el codigo](https://github.com/Lifimastar/100DaysPython/tree/main/proyectos/12_number_guessing)
 
 Presiona '|>' para ejecutar el codigo.
