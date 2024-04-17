@@ -17,5 +17,6 @@ Los proximos no estaran en google colab al menos que me lo pidan asi que dejare 
 11. Blackjack Capstone: [mira el codigo](https://github.com/Lifimastar/100DaysPython/tree/main/proyectos/11_blackjack)
 12. Number Guessing Game: [mira el codigo](https://github.com/Lifimastar/100DaysPython/tree/main/proyectos/12_number_guessing)
 13. Higher Lower Game: [mira el codigo](https://github.com/Lifimastar/100DaysPython/tree/main/proyectos/14_higher_lower)
+14. Coffee Machine: [mira el codigo](https://github.com/Lifimastar/100DaysPython/tree/main/proyectos/15_coffee_machine)
 
 Presiona '|>' para ejecutar el codigo.
